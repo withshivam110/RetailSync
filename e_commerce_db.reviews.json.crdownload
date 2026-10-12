@@ -1,0 +1,220 @@
+[{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d092"
+  },
+  "review_id": 1,
+  "customer_id": 101,
+  "product_id": 1,
+  "rating": 5,
+  "comment": "Amazing quality! Fits perfectly and super fast delivery.",
+  "created_at": "2026-05-25T14:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d093"
+  },
+  "review_id": 2,
+  "customer_id": 102,
+  "product_id": 2,
+  "rating": 4,
+  "comment": "Good product, but the packaging could have been better.",
+  "created_at": "2026-05-30T10:15:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d094"
+  },
+  "review_id": 3,
+  "customer_id": 103,
+  "product_id": 3,
+  "rating": 5,
+  "comment": "Exceeded my expectations. Will definitely buy again!",
+  "created_at": "2026-06-03T16:45:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d095"
+  },
+  "review_id": 4,
+  "customer_id": 104,
+  "product_id": 4,
+  "rating": 2,
+  "comment": "Item arrived late and didn't match the description.",
+  "created_at": "2026-06-06T09:20:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d096"
+  },
+  "review_id": 5,
+  "customer_id": 105,
+  "product_id": 5,
+  "rating": 4,
+  "comment": "Solid performance for the price. Very happy with it.",
+  "created_at": "2026-06-13T12:10:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d097"
+  },
+  "review_id": 6,
+  "customer_id": 106,
+  "product_id": 6,
+  "rating": 1,
+  "comment": "Terrible experience, cancelled order due to massive shipping delays.",
+  "created_at": "2026-06-14T08:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d098"
+  },
+  "review_id": 7,
+  "customer_id": 107,
+  "product_id": 7,
+  "rating": 5,
+  "comment": "Absolutely love it! Top-notch quality.",
+  "created_at": "2026-06-19T18:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d099"
+  },
+  "review_id": 8,
+  "customer_id": 108,
+  "product_id": 8,
+  "rating": 5,
+  "comment": "Quick delivery and works like a charm.",
+  "created_at": "2026-06-21T11:05:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d09a"
+  },
+  "review_id": 9,
+  "customer_id": 109,
+  "product_id": 9,
+  "rating": 3,
+  "comment": "It's okay, nothing special compared to other brands.",
+  "created_at": "2026-06-22T14:50:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d09b"
+  },
+  "review_id": 10,
+  "customer_id": 110,
+  "product_id": 10,
+  "rating": 5,
+  "comment": "Fantastic item! Delivered right on time.",
+  "created_at": "2026-06-23T15:25:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d09c"
+  },
+  "review_id": 11,
+  "customer_id": 111,
+  "product_id": 11,
+  "rating": 4,
+  "comment": "Very satisfied with the purchase.",
+  "created_at": "2026-07-26T10:00:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d09d"
+  },
+  "review_id": 12,
+  "customer_id": 112,
+  "product_id": 12,
+  "rating": 3,
+  "comment": "Average quality, expected a bit more durability.",
+  "created_at": "2026-07-27T13:40:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d09e"
+  },
+  "review_id": 13,
+  "customer_id": 113,
+  "product_id": 13,
+  "rating": 2,
+  "comment": "Had some issues with customer support regarding shipment.",
+  "created_at": "2026-07-30T09:15:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d09f"
+  },
+  "review_id": 14,
+  "customer_id": 114,
+  "product_id": 14,
+  "rating": 5,
+  "comment": "Perfecly matched what was shown online. 5/5 stars!",
+  "created_at": "2026-08-02T11:55:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d0a0"
+  },
+  "review_id": 15,
+  "customer_id": 115,
+  "product_id": 15,
+  "rating": 1,
+  "comment": "Cancelled order, product was out of stock.",
+  "created_at": "2026-08-04T16:20:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d0a1"
+  },
+  "review_id": 16,
+  "customer_id": 116,
+  "product_id": 16,
+  "rating": 4,
+  "comment": "Great value for money.",
+  "created_at": "2026-08-06T14:10:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d0a2"
+  },
+  "review_id": 17,
+  "customer_id": 117,
+  "product_id": 17,
+  "rating": 3,
+  "comment": "Decent product, but delivery took longer than expected.",
+  "created_at": "2026-08-09T08:45:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d0a3"
+  },
+  "review_id": 18,
+  "customer_id": 118,
+  "product_id": 18,
+  "rating": 4,
+  "comment": "Looks great and functions well.",
+  "created_at": "2026-08-11T12:30:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d0a4"
+  },
+  "review_id": 19,
+  "customer_id": 119,
+  "product_id": 19,
+  "rating": 5,
+  "comment": "Superb quality and easy to use.",
+  "created_at": "2026-08-13T17:10:00Z"
+},
+{
+  "_id": {
+    "$oid": "6ac5d1e58827eb6ac130d0a5"
+  },
+  "review_id": 20,
+  "customer_id": 120,
+  "product_id": 20,
+  "rating": 5,
+  "comment": "Completely satisfied. Highly recommended store!",
+  "created_at": "2026-08-16T09:00:00Z"
+}]
